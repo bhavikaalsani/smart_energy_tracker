@@ -5,6 +5,3 @@ pydantic
 python-multipart
 python-jose[cryptography]
 passlib[bcrypt]
-easyocr
-opencv-python-headless
-numpy
